@@ -1,0 +1,20 @@
+.imagemThais {
+    height: 490px;
+    width: 550px;
+    margin: 10px;
+}
+
+.separacao {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 5%;
+    margin: 10px;
+}
+
+h1 {
+    color: purple;
+}
+
+body {
+    font-size: 1,25rem;
+}
